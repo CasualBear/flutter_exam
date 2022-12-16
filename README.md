@@ -18,4 +18,6 @@ Base URL : https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&a
 
 https://pub.dev/packages/geolocator
 
+https://pub.dev/packages/json_serializable
 
+https://docs.flutter.dev/development/data-and-backend/json
